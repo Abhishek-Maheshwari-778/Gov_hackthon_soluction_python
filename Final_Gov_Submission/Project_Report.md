@@ -4,6 +4,7 @@
 **Submitted By:** Team UIDAI_10441
 **Date:** January 20, 2026
 **Theme:** Unlocking Societal Trends in Aadhaar Enrolment and Updates
+**Repository:** [GitHub Link](https://github.com/Abhishek-Maheshwari-778/Gov_hackthon_soluction_python)
 
 ---
 
@@ -209,8 +210,15 @@ We deployed **Isolation Forest**, an algorithm designed to isolate outliers. Unl
 2.  **Guntur & Kurnool:** Similar high-velocity update patterns.
 3.  **Sitamarhi (Bihar):** High Births (20,679) indicates massive demographic expansion.
 
-> **[INSERT OUTPUT TABLE/SCREENSHOT OF ANOMALIES HERE]**
-> *Table 7.3: Top 5 Red-Flagged Districts.*
+| State | District | Migration Volume | New Births |
+| :--- | :--- | :--- | :--- |
+| **Andhra Pradesh** | East Godavari | 136,935 | 7,161 |
+| **Andhra Pradesh** | Guntur | 155,195 | 8,769 |
+| **Andhra Pradesh** | Kurnool | 148,267 | 10,923 |
+| **Andhra Pradesh** | Visakhapatnam | 137,329 | 7,688 |
+| **Bihar** | Sitamarhi | 157,203 | 20,679 |
+
+*Table 7.3: Top 5 Red-Flagged Districts identifying infrastructure pressure points.*
 
 ---
 
