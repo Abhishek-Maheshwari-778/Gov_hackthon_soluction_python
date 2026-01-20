@@ -1,0 +1,16 @@
+# Data Folders
+api_data_aadhar_biometric/
+api_data_aadhar_demographic/
+api_data_aadhar_enrolment/
+zips/
+
+# Temporary Files
+*.tmp
+*.log
+.ipynb_checkpoints/
+__pycache__/
+
+# Virtual Environment
+.venv/
+env/
+venv/
